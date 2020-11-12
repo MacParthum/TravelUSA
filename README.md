@@ -1,5 +1,5 @@
 # Travel USA
-In this group class project for UNC Charlotte we used Express, Passport for login authentication and React to create a blog site where the user registers on a secure login.  The user can create blogs about there travels across the USA and post pictures of thier travels.
+In this group class project for UNC Charlotte we used Express, Passport for login authentication and React to create a blog site where the user registers on a secure login.  The user can create blogs about their travels across the USA and post pictures of thier travels.
 
 ## Link to Deployed Website
 
